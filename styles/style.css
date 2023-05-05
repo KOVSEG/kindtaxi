@@ -1,0 +1,33 @@
+body {
+  background: url('../images/taxi_bg.jpg') no-repeat;
+  background-size: cover;
+}
+
+header,
+footer {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: rgb(255, 230, 0);
+}
+
+main {
+  background: rgba(0, 0, 0, 0.301);
+  border-radius: 50px 50px;
+  padding: 15px;
+  color:  rgb(255, 230, 0);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.bg__group {
+  background: none;
+  border: none;
+  color: rgb(255, 255, 255);
+}
+
+footer {
+  height: 50px;
+}
+
+.employee__info {
+  padding-top: 10px;
+}
